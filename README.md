@@ -3,7 +3,7 @@ Project Overview
 LocalChefBazaar is a modern online platform that connects home cooks with people looking for fresh, homemade food. The platform allows customers to explore daily menus, check chef availability, place orders, make secure payments, and track orders in real-time. For home cooks, it provides an easy way to earn money from their kitchen without needing a physical restaurant.
 
 Live URL 
-Live Site URL : 
+Live Site URL :  https://localchefbazaar-f8bdd.web.app
 
 Key Features
 User Authentication: Secure login/registration using Firebase Authentication
