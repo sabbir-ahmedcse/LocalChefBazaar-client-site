@@ -3,7 +3,7 @@ import React from 'react';
 
 
 const axiosInstance = axios.create({
-    baseURL: 'https://y-82ojzh3v5-sabbir-ahmeds-projects-243f0503.vercel.app'
+    baseURL: 'https://y-omega-brown.vercel.app'
 })
 
 const useAxios = () => {

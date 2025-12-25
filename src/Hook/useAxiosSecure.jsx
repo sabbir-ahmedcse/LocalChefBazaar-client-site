@@ -4,7 +4,7 @@ import { useNavigate } from "react-router";
 import useAuth from "./useAuth";
 
 const axiosSecure = axios.create({
-  baseURL: "https://y-82ojzh3v5-sabbir-ahmeds-projects-243f0503.vercel.app",
+  baseURL: "https://y-omega-brown.vercel.app",
   withCredentials: true, // ✅ ensures cookies are sent
 });
 
